@@ -1,0 +1,18 @@
+.root {
+  position: absolute;
+  left: 0;
+  right: 15px;
+  bottom: 56px;
+  height: 34px;
+  align-items: flex-start;
+}
+.homeIndicator {
+  position: absolute;
+  left: calc(50% - -0.5px);
+  bottom: 8px;
+  width: 134px;
+  height: 5px;
+  border-radius: 100px;
+  background-color: #000;
+  transform: translateX(-50%);
+}

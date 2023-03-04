@@ -1,0 +1,1021 @@
+.homeIndicator2.homeIndicator2 {
+  right: initial;
+  top: 54px;
+  bottom: initial;
+  width: 390px;
+}
+.homeIndicator.homeIndicator {
+  left: 50%;
+  background-color: #ffffffde;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.userInterfacePlus.userInterfacePlus {
+  position: initial;
+  width: 27.4286px;
+  height: 27.4286px;
+}
+.vector.vector {
+  position: initial;
+  top: initial;
+  right: initial;
+  bottom: initial;
+  left: initial;
+  width: 18.2857px;
+  height: 18.2857px;
+}
+.vector {
+  position: initial;
+  top: initial;
+  right: initial;
+  bottom: initial;
+  left: initial;
+  width: 18.2857px;
+  height: 18.2857px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 390px;
+  height: 844px;
+  align-items: flex-start;
+  border-radius: 50px;
+  background-color: #19173d;
+  overflow: hidden;
+}
+.statusBar {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 389px;
+  height: 45px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.battery {
+  position: absolute;
+  left: 350.3333px;
+  top: 17.3333px;
+  width: 24.328px;
+  height: 11.3333px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.wifi {
+  position: absolute;
+  left: 330px;
+  top: 17.3307px;
+  width: 15.3333px;
+  height: 11px;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.cellularConnection {
+  position: absolute;
+  left: 308px;
+  top: 17.6667px;
+  width: 17px;
+  height: 10.6667px;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.timeStyle {
+  position: absolute;
+  left: 21px;
+  top: 11px;
+  width: 54px;
+  height: 21px;
+  align-items: flex-start;
+}
+.time {
+  color: #fff;
+  font-size: 15px;
+  font-weight: 600;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+  position: absolute;
+  left: 0;
+  top: calc(50% - -1.5px);
+  width: 54px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  transform: translateY(-50%);
+}
+.frame16 {
+  position: absolute;
+  left: 11px;
+  top: 65px;
+  width: 368px;
+  height: 74px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.frame13 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: min-content;
+  height: min-content;
+  place-content: center;
+  align-items: center;
+  gap: 78px;
+}
+.frame12 {
+  width: min-content;
+  height: min-content;
+  align-items: flex-end;
+  gap: 13px;
+}
+.ellipse1 {
+  width: 44px;
+  height: 44px;
+  overflow: visible;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.welcomeBackBenjaminJohnson {
+  width: 127px;
+  height: min-content;
+  flex-direction: column;
+}
+.textBlock {
+  color: #ffffffde;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+}
+.textBlock2 {
+  margin-top: 0;
+}
+.labelWrapper {
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #7b78aa;
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+}
+.frame11 {
+  width: 106px;
+  height: 74px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 10px;
+}
+.frame10 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  padding: 10px;
+}
+.frame9 {
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  flex-direction: column;
+  padding: 10px;
+}
+.frame8 {
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  align-items: flex-start;
+  gap: 23px;
+}
+.hugeIcon {
+  width: 24px;
+  height: 22.8571px;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.menuMore_Vertical {
+  width: 24px;
+  height: 24px;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.cards {
+  position: absolute;
+  left: -2px;
+  top: 223px;
+  width: 390px;
+  height: 798px;
+  align-items: flex-start;
+}
+.subtract {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 390px;
+  height: 798px;
+  overflow: visible;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.amazon {
+  position: absolute;
+  left: 20px;
+  top: 198px;
+  width: 350px;
+  height: 80px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.base {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 350px;
+  height: 80px;
+  border-radius: 50px;
+  background-color: #19173d;
+}
+.amazon2 {
+  position: absolute;
+  left: 16px;
+  top: 16px;
+  width: min-content;
+  height: min-content;
+  place-content: center;
+  align-items: center;
+  gap: 68px;
+}
+.amazon3 {
+  width: min-content;
+  height: min-content;
+  place-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.socialIconsAmazonWC {
+  width: 48px;
+  height: 48px;
+  overflow: visible;
+}
+.icon11 {
+  width: 100%;
+  height: 100%;
+}
+.amazonMay12024 {
+  width: 108px;
+  height: 42px;
+  flex-direction: column;
+}
+.textBlock3 {
+  color: #ffffffde;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+}
+.textBlock4 {
+  margin-top: 0;
+}
+.labelWrapper2 {
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label2 {
+  color: #ffffffde;
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+}
+.textBlock5 {
+  margin-top: 0;
+  color: #ffffffde;
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+}
+.frame17 {
+  width: 90px;
+  height: 44px;
+  place-content: center;
+  align-items: center;
+  padding: 10px;
+  outline: solid 1px #fffc;
+  outline-offset: -1px;
+  border-radius: 20px;
+}
+._10322 {
+  color: #ffffffde;
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.mcDonalds {
+  position: absolute;
+  left: 20px;
+  top: 298px;
+  width: 350px;
+  height: 80px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.base2 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 350px;
+  height: 80px;
+  border-radius: 50px;
+  background-color: #19173d;
+}
+.mcDonalds2 {
+  position: absolute;
+  left: 16px;
+  top: 16px;
+  width: min-content;
+  height: min-content;
+  place-content: center;
+  align-items: center;
+  gap: 68px;
+}
+.mcDonalds3 {
+  width: min-content;
+  height: min-content;
+  place-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.socialIconsMcdonaldsWC {
+  width: 48px;
+  height: 48px;
+  overflow: visible;
+}
+.icon12 {
+  width: 100%;
+  height: 100%;
+}
+.mcDonaldsMay22024 {
+  width: 108px;
+  height: 42px;
+  flex-direction: column;
+}
+.textBlock6 {
+  color: #ffffffde;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+}
+.textBlock7 {
+  margin-top: 0;
+}
+.labelWrapper3 {
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label3 {
+  color: #ffffffde;
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+}
+.textBlock8 {
+  margin-top: 0;
+  color: #ffffffde;
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+}
+.frame172 {
+  width: 90px;
+  height: 44px;
+  place-content: center;
+  align-items: center;
+  padding: 10px;
+  outline: solid 1px #fffc;
+  outline-offset: -1px;
+  border-radius: 20px;
+}
+._13333 {
+  color: #ffffffde;
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.apple {
+  position: absolute;
+  left: 20px;
+  top: 398px;
+  width: 350px;
+  height: 80px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.base3 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 350px;
+  height: 80px;
+  border-radius: 50px;
+  background-color: #19173d;
+}
+.apple2 {
+  position: absolute;
+  left: 16px;
+  top: 16px;
+  width: min-content;
+  height: min-content;
+  place-content: center;
+  align-items: center;
+  gap: 68px;
+}
+.apple3 {
+  width: min-content;
+  height: min-content;
+  place-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.socialIconsAppleWC {
+  width: 48px;
+  height: 48px;
+  overflow: visible;
+}
+.icon13 {
+  width: 100%;
+  height: 100%;
+}
+.appleMay82024 {
+  width: 108px;
+  height: 42px;
+  flex-direction: column;
+}
+.textBlock9 {
+  color: #ffffffde;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+}
+.textBlock10 {
+  margin-top: 0;
+}
+.labelWrapper4 {
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label4 {
+  color: #ffffffde;
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+}
+.textBlock11 {
+  margin-top: 0;
+  color: #ffffffde;
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+}
+.frame173 {
+  width: 90px;
+  height: 44px;
+  place-content: center;
+  align-items: center;
+  padding: 10px;
+  outline: solid 1px #fffc;
+  outline-offset: -1px;
+  border-radius: 20px;
+}
+._15656 {
+  color: #ffffffde;
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.masterCard {
+  position: absolute;
+  left: 20px;
+  top: 498px;
+  width: 350px;
+  height: 80px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.base4 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 350px;
+  height: 80px;
+  border-radius: 50px;
+  background-color: #19173d;
+}
+.masterCard2 {
+  position: absolute;
+  left: 16px;
+  top: 16px;
+  width: min-content;
+  height: min-content;
+  place-content: center;
+  align-items: center;
+  gap: 68px;
+}
+.masterCard3 {
+  width: min-content;
+  height: min-content;
+  place-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.socialIconsMastercardWC {
+  width: 48px;
+  height: 48px;
+  overflow: visible;
+}
+.icon14 {
+  width: 100%;
+  height: 100%;
+}
+.masterCardMay92024 {
+  width: 108px;
+  height: 42px;
+  flex-direction: column;
+}
+.textBlock12 {
+  color: #ffffffde;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+}
+.textBlock13 {
+  margin-top: 0;
+}
+.labelWrapper5 {
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label5 {
+  color: #ffffffde;
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+}
+.textBlock14 {
+  margin-top: 0;
+  color: #ffffffde;
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+}
+.frame174 {
+  width: 90px;
+  height: 44px;
+  place-content: center;
+  align-items: center;
+  padding: 10px;
+  outline: solid 1px #fffc;
+  outline-offset: -1px;
+  border-radius: 20px;
+}
+._27611 {
+  color: #ffffffde;
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.starbucks {
+  position: absolute;
+  left: 20px;
+  top: 591px;
+  width: 350px;
+  height: 80px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.base5 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 350px;
+  height: 80px;
+  border-radius: 50px;
+  background-color: #19173d;
+}
+.starbucks2 {
+  position: absolute;
+  left: 16px;
+  top: 16px;
+  width: min-content;
+  height: min-content;
+  place-content: center;
+  align-items: center;
+  gap: 68px;
+}
+.starbucks3 {
+  width: min-content;
+  height: min-content;
+  place-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.socialIconsStarbucksWC {
+  width: 48px;
+  height: 48px;
+  overflow: visible;
+}
+.icon15 {
+  width: 100%;
+  height: 100%;
+}
+.starbucksMay102024 {
+  width: 108px;
+  height: 42px;
+  flex-direction: column;
+}
+.textBlock15 {
+  color: #ffffffde;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+}
+.textBlock16 {
+  margin-top: 0;
+}
+.labelWrapper6 {
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label6 {
+  color: #ffffffde;
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+}
+.textBlock17 {
+  margin-top: 0;
+  color: #ffffffde;
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+}
+.frame175 {
+  width: 90px;
+  height: 44px;
+  place-content: center;
+  align-items: center;
+  padding: 10px;
+  outline: solid 1px #fffc;
+  outline-offset: -1px;
+  border-radius: 20px;
+}
+._1778 {
+  color: #ffffffde;
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.freelancer {
+  position: absolute;
+  left: 20px;
+  top: 698px;
+  width: 350px;
+  height: 80px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.base6 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 350px;
+  height: 80px;
+  border-radius: 50px;
+  background-color: #19173d;
+}
+.freelancer2 {
+  position: absolute;
+  left: 16px;
+  top: 16px;
+  width: min-content;
+  height: min-content;
+  place-content: center;
+  align-items: center;
+  gap: 68px;
+}
+.freelancer3 {
+  width: min-content;
+  height: min-content;
+  place-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.work {
+  width: 48px;
+  height: 48px;
+  overflow: visible;
+}
+.icon16 {
+  width: 100%;
+  height: 100%;
+}
+.freelancerMay112024 {
+  width: 108px;
+  height: 42px;
+  flex-direction: column;
+}
+.textBlock18 {
+  color: #ffffffde;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+}
+.textBlock19 {
+  margin-top: 0;
+}
+.labelWrapper7 {
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label7 {
+  color: #ffffffde;
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+}
+.textBlock20 {
+  margin-top: 0;
+  color: #ffffffde;
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+}
+.frame176 {
+  width: 90px;
+  height: 44px;
+  place-content: center;
+  align-items: center;
+  padding: 10px;
+  outline: solid 1px #fffc;
+  outline-offset: -1px;
+  border-radius: 20px;
+}
+._33000 {
+  color: #ffffffde;
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.myTransaction {
+  color: #ffffffde;
+  font-size: 17px;
+  font-weight: 600;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+  position: absolute;
+  left: 13px;
+  top: 152px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.availableBalnce {
+  position: absolute;
+  left: 95px;
+  top: 129px;
+  width: 200px;
+  height: 200px;
+  align-items: flex-start;
+}
+.balance {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 200px;
+  height: 200px;
+  overflow: visible;
+}
+.icon17 {
+  width: 100%;
+  height: 100%;
+}
+.availabeBalance {
+  position: absolute;
+  left: 42px;
+  top: 69px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+}
+._33200 {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.availableBalance {
+  color: #7b78aa;
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.tabBar {
+  position: absolute;
+  left: 0;
+  top: 756px;
+  width: 390px;
+  height: 90px;
+  align-items: flex-start;
+}
+.rectangle468 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 390px;
+  height: 90px;
+  overflow: visible;
+}
+.icon18 {
+  width: 100%;
+  height: 100%;
+}
+.icons {
+  position: absolute;
+  left: 42px;
+  top: 28px;
+  width: min-content;
+  height: min-content;
+  place-content: center;
+  align-items: center;
+  gap: 70px;
+}
+.home {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: center;
+}
+.userInterfaceHouse {
+  width: 24px;
+  height: 24px;
+  overflow: visible;
+}
+.icon19 {
+  width: 100%;
+  height: 100%;
+}
+.cards2 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+}
+.profile {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+}
+.statistic {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+}
+.businessBarGraph {
+  width: 24px;
+  height: 24px;
+}
+.icon20 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse1881 {
+  position: absolute;
+  left: 24px;
+  top: 9px;
+  width: 58px;
+  height: 18px;
+  overflow: visible;
+  filter: blur(20px);
+}
+.icon21 {
+  width: 100%;
+  height: 100%;
+}
